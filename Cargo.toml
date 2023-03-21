@@ -1,7 +1,8 @@
-[workspace] 
+[workspace]
 members = [
     "crates/tree-crasher",
     "crates/tree-crasher-javascript",
+    "crates/tree-crasher-python",
     "crates/tree-crasher-regex",
     "crates/tree-crasher-rust",
     "crates/tree-crasher-sql",
